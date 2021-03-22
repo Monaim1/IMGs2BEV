@@ -17,3 +17,4 @@ The goal is to compute semantically segmented(SS) BEV images using synthetic dat
 The inputs are SS-ed images from vehicle-mounted cameras.
 The desired output is SS-ed image in Bird's-eye-view.
 
+For more in-depth informations, check-out the final report.
